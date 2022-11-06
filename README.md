@@ -2,7 +2,7 @@
 The purpose of this project is to help choose the best machine learning classifier, for the 5 emotions of happy, sad, angry, fear and neutral. For audio samples where subjects (actors) are made to deliver sentences with various emotional undertones.
 
 This project uses code from this GIT repo: https://github.com/x4nth055/emotion-recognition-using-speech
-and tries improving accuracy by adding in more data and changing the emotions.
+and tries improving accuracy by adding in more data and changing the emotions (My thanks to the author).
 
 The datasets used are: 
 1. https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
